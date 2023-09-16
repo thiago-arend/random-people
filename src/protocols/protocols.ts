@@ -8,3 +8,7 @@ export type Person = {
     firstName: string;
     lastName: string;
 }
+
+export type Count = {
+    count: number;
+}
